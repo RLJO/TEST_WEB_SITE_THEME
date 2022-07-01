@@ -1,0 +1,2 @@
+img.unselect_marker {filter: hue-rotate(0);}
+img.select_marker {filter: hue-rotate(120deg);}

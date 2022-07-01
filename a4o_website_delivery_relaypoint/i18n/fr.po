@@ -1,0 +1,42 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* a4o_website_delivery_relaypoint
+#
+# Christophe <xt0ph@adiczion.net>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-26 15:35+0000\n"
+"PO-Revision-Date: 2022-02-26 16:36+0100\n"
+"Last-Translator: Christophe <xt0ph@adiczion.net>\n"
+"Language-Team: French <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+"Language: fr_FR\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#. module: a4o_website_delivery_relaypoint
+#: model_terms:ir.ui.view,arch_db:a4o_website_delivery_relaypoint.delivery_relaypoint_frontend
+msgid "Choose a relay point"
+msgstr "Choisissez un point relais"
+
+#. module: a4o_website_delivery_relaypoint
+#. openerp-web
+#: code:addons/a4o_website_delivery_relaypoint/static/src/js/website_sale_delivery.js:36
+#, python-format
+msgid "Free"
+msgstr "Gratuit"
+
+#. module: a4o_website_delivery_relaypoint
+#: model_terms:ir.ui.view,arch_db:a4o_website_delivery_relaypoint.delivery_relaypoint_confirmation
+msgid "Shipping"
+msgstr "Expédition"
+
+#. module: a4o_website_delivery_relaypoint
+#: model_terms:ir.ui.view,arch_db:a4o_website_delivery_relaypoint.delivery_relaypoint_confirmation
+msgid "in RelayPoint"
+msgstr "en point relais"
+
