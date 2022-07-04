@@ -1,0 +1,8 @@
+<odoo>
+    <data>
+      <template id="result_id">
+      <h1>Payment Status ..</h1>
+    </template>
+
+    </data>
+</odoo>
